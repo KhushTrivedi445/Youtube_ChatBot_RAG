@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Virtual environment
+myenv/
+
+# Vector DB indexes (auto-generated)
+vector_db/
+vector_db_*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data files
+transcript.txt
+video_script.txt
+
+# OS / editor files
+.DS_Store
+.vscode/
